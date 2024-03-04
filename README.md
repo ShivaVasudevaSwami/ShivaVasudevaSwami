@@ -3,5 +3,5 @@
 - 🎓 I'm Pursuing B.Sc in Computer Science, MVLU College.
 - 🌱 I’m currently learning Python Programming, MySQL, C++ Programming, Data Structure and Algorithms(DSA).
 - 💞️ I’m looking to collaborate on Reasearch or on Programming Projects.
-- 📫 How to reach me https://www.linkedin.com/in/shiva-swami-1a81a5298/
+- 📫 How to reach me https://www.linkedin.com/in/shiva-swami-1a81a5298/ , swamishivacs232425@gmail.com
 - 😄 Pronouns: Don't forget the Culture
